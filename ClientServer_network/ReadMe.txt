@@ -28,11 +28,11 @@ a skeleton Server and Client application for you to start with.
 
 On command line, type in the following commands:
 
-Windows Install JDK 1.8 and after you mount it:
+Windows Install JDK 1.7 and after you mount it:
 	Or download Web.
 
-Linux 	Install JDK 1.8 and after you mount it:
-	$ sudi apt-get install openjdk-8-jdk
+Linux 	Install JDK 1.7 and after you mount it:
+	$ sudo apt-get install openjdk-7-jdk
 	Or donwload Web.
 
 ----------------------------AFTER-----------------------------------
