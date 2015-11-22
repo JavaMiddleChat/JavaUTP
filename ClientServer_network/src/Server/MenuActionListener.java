@@ -20,7 +20,7 @@ class MenuActionListener extends JFrame implements ActionListener {
     ArrayList<String> ipconfig = new ArrayList<String>();
     JLabel label = new JLabel();
     public void actionPerformed(ActionEvent e) {
-//        String message = "“¬Œﬂ  »— ¿ ¬ «ŒÕ≈ –»— ¿ ";
+//        String message = "Dont Work";
 //        ipconfig.add(0,"192.168.0.1");
 //        ipconfig.add(1,"192.168.0.2");
 //        ipconfig.add(2,"192.168.0.3");
